@@ -20,7 +20,7 @@ jobs:
         run: flutter pub get
 
       - name: Build Web
-        run: flutter build web --release --base-href https://github.com/Robinkenny/kennywongtodoapp.git
+        run: flutter build web --release --base-href "/kennywongtodoapp/"
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
