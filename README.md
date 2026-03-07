@@ -20,3 +20,10 @@
 
 ## 部署
 - Web 版：https://Robinkenny.github.io/kennywongtodoapp/
+
+
+
+---
+Note - run merge :
+- built a quick run build -yml file to build the website to preview the result
+- 
